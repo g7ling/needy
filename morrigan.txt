@@ -1,1 +1,1 @@
-CREATOR=e261f323-4c22-4e14-b3c1-28c19c7f10f5&PRODUCT=CLEANING&FAIL_MSG=This item does not have a valid script license!
+CREATOR=e261f323-4c22-4e14-b3c1-28c19c7f10f5&PRODUCT=CLEANING_V1&FAIL_MSG=This item does not have a valid script license!
